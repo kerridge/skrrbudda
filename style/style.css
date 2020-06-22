@@ -9,9 +9,22 @@ div {
 }
 
 button.ganggang {
-    color: pink;
+    colour: pink;
 }
 
 #gangshit {
     z-index: 3;
+}
+
+
+div.main {
+    width: 100%;
+}
+
+a {
+    display: block;
+}
+
+footer {
+    background-color: green;
 }
