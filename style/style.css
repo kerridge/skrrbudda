@@ -16,6 +16,9 @@ button.ganggang {
     z-index: 3;
 }
 
+nav a {
+    display: block;
+}
 
 div.main {
     width: 100%;
