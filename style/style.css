@@ -9,7 +9,7 @@ div {
 }
 
 button.ganggang {
-    colour: pink;
+    color: pink;
 }
 
 #gangshit {
@@ -30,4 +30,8 @@ a {
 
 footer {
     background-color: green;
+}
+
+.yeboi {
+    position: relative;
 }
